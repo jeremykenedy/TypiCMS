@@ -18,7 +18,7 @@
 		"dimsav/laravel-translatable": "~4.3",
 		"edvinaskrucas/notification": "~3.0",
 		"eluceo/ical": "~0.3",
-		"guzzlehttp/guzzle": "~4.2.3",
+		"guzzlehttp/guzzle": "~6.5.8",
 		"jwage/easy-csv": "~0.0.2",
 		"laravel/framework": "~4.2.11",
 		"mccool/database-backup": "~1.0.1",
